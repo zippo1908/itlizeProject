@@ -1,2 +1,2 @@
 # itlizeProject
-# Group Project
+Group Project
